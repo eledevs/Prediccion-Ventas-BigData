@@ -1,0 +1,11 @@
+fecha,producto,unidades_vendidas,clima,promocion
+2026-01-01,Leche,100,Lluvia,No
+2026-01-02,Leche,120,Soleado,Si
+2026-01-03,Pan,80,Soleado,No
+2026-01-04,Pan,95,Lluvia,No
+2026-01-05,Zumo,150,Soleado,Si
+2026-01-06,Zumo,40,Lluvia,No
+2026-01-07,Leche,110,Soleado,No
+2026-01-08,Pan,105,Lluvia,Si
+2026-01-09,Zumo,130,Soleado,Si
+2026-01-10,Leche,90,Lluvia,No
